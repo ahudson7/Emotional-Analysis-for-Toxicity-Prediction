@@ -1,4 +1,4 @@
-# Emotional-Analysis-for-Toxicity-Prediction
+# Preemptively Determining Toxicity of Online Communications Using Emotional Analysis
 
 ### Authors: 
 Haadiya Ansari <br> 
@@ -19,6 +19,8 @@ Portland State University
 - [emotionExtraction.py](https://github.com/ahudson7/Emotional-Analysis-for-Toxicity-Prediction/blob/main/emotionExtraction.py): python script used to extract emotional features from the Conversations Gone Awry corpus
 
 - [CGA_emotion_df.csv](https://github.com/ahudson7/Emotional-Analysis-for-Toxicity-Prediction/blob/main/CGA_emotion_df.csv): emotional features information extracted using the emotionExtraction.py script
+
+- Google Colab Notebook: Google colab notebook that contains all of the code necessary to run our model from pre-processing to the prediction phase
 
 ---
 
