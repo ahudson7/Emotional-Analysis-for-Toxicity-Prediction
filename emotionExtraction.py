@@ -3,6 +3,8 @@ Emotional Extraction via NRC Emotional Lexicon
 
 This code extracts the emotional features of the Conversations Gone Awry Corpus, and outputs the results as a
 CSV file for use in developing features to add to the Convokit model.
+
+Based on code found at: https://www.geeksforgeeks.org/emotion-classification-using-nrc-lexicon-in-python/
 """
 
 import pandas as pd
