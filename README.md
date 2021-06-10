@@ -1,7 +1,5 @@
 # Emotional-Analysis-for-Toxicity-Prediction
 
-## Subsynth - A Digital Synthesizer Project
-
 ### Authors: 
 Haadiya Ansari <br> 
 Aaron Hudson
@@ -10,6 +8,7 @@ Aaron Hudson
 ### CS 510: Adventures in NLP
 
 Professor Ameeta Agrawal <br>
+TA Steve Braich <br>
 Spring 2021 <br>
 Portland State University
 
