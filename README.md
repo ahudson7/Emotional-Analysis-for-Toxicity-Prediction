@@ -20,7 +20,7 @@ Portland State University
 
 - [CGA_emotion_df.csv](https://github.com/ahudson7/Emotional-Analysis-for-Toxicity-Prediction/blob/main/CGA_emotion_df.csv): emotional features information extracted using the emotionExtraction.py script
 
-- Google Colab Notebook: Google colab notebook that contains all of the code necessary to run our model from pre-processing to the prediction phase
+- [ConvosGoneAwry.ipynb](https://github.com/ahudson7/Emotional-Analysis-for-Toxicity-Prediction/blob/main/ConvosGoneAwry.ipynb): Google colab notebook that contains all of the code necessary to run our model from pre-processing to the prediction phase
 
 ---
 
